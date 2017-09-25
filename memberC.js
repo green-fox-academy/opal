@@ -1,3 +1,5 @@
-function cheer(data1,data2){
-console.log(data1,data2);
+
+function cheer(name){
+console.log(`Cheer for the ${name}`);
+
 }
