@@ -1,3 +1,3 @@
 function cheer(javascript){
-console.log("javascript");
+console.log("Greeting");
 }
