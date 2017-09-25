@@ -1,3 +1,3 @@
 function count (age){
-    console.log(age);
+    console.log('February');
 }
