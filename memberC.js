@@ -1,3 +1,3 @@
-function cheer(){
-console.log("opal");
+function cheer(data){
+console.log(data);
 }
