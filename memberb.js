@@ -1,4 +1,6 @@
-function count (a,b){
-    console.log('a');
-    console.log('b');
+
+function count (age){
+
+    console.log('Counting the countless '+age);
+
 }
