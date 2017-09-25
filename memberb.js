@@ -1,7 +1,4 @@
-function count (age){
-
-    console.log('HAOCHENLI')
-    console.log("dashabi");
-    console.log('February')
-    console.log("zhengnanzhang");
+function count (a,b){
+    console.log('a');
+    console.log('b');
 }
