@@ -1,3 +1,3 @@
-function cheer(javascript){
-console.log("Greeting");
+function cheer(name){
+console.log(`Cheer for the ${name}`);
 }
